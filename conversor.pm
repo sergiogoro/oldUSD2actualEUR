@@ -7,7 +7,7 @@
 #
 
 use Moose;
-use XML::Simple;
+Require XML::Simple qw(:strict);
 
 
 
