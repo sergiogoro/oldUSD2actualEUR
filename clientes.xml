@@ -1,0 +1,22 @@
+<clientela>
+  <cliente>
+    <nombre>Filemon Pi</nombre>
+    <pasta> 404041.5</pasta> 
+    <fecha>13:50 30/1/2000</fecha> </cliente>
+<cliente>
+    <nombre>Pantuflo Zapatilla</nombre>  
+    <pasta>3750 </pasta>
+    <fecha>13:50 23/2/2000</fecha></cliente>
+<cliente>
+    <nombre>Superintendente Vicente</nombre>  
+    <pasta>64041.5</pasta>
+    <fecha> 13:50 25/2/2000</fecha></cliente>
+<cliente>
+    <nombre>Zape Zapatilla</nombre> 
+    <pasta>50000</pasta>
+    <fecha> 13:50 22/3/2000</fecha></cliente>
+<cliente>
+    <nombre>Zipi Zapatilla</nombre> 
+    <pasta>5000</pasta>
+    <fecha> 13:50 29/3/2000</fecha></cliente>
+</clientela>
